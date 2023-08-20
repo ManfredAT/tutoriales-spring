@@ -69,7 +69,7 @@
         <dependency>
             <groupId>ar.com.fdvs</groupId>
             <artifactId>DynamicJasper</artifactId>
-            <version>5.0.10</version>
+            <version>5.3.9</version>
         </dependency>
         
         <!-- Excel XLS View -->
